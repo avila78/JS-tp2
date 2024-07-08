@@ -11,5 +11,3 @@ if (isNaN(edad)) {
 } else {
   document.write("Ud todavia no puede conducir");
 }
-
-isNaN(nombrevariable);
